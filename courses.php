@@ -147,11 +147,22 @@
 				<p>
 					<big><strong><b>Undergraduate Courses</b></strong></big><br>
 					<ul>
-						<li>B. Tech Information Technology (IT)</li>
-						<li>B. Tech Electronics and Communication Engineering (ECE)</li>
+						<li>B. Tech. Information Technology (IT)</li>
+						<li>B. Tech. Electronics and Communication Engineering (ECE)</li>
 					</ul>
 					This course is arguably the best in the country. Its strength is its adaptability to the changing industry requirements. A student gets knowledge of the latest technologies, in addition to ample industry exposure. The students are given a choice of subject from the 6th semester itself in the form of electives. The students have ample practical knowledge owing to the mini projects taken up in their 5th, 6th and 7th semesters. Apart from this, the students are required to submit an industrial project in their 8th semester. The course includes both theory and lab sessions. The curriculum emphasizes importance of applied knowledge, and promotes state-of-the-art teaching and learning.
 				</p>
+				
+				<p>
+					<big><strong><b>Dual Degree Courses</b></strong></big><br>
+					<ul>
+						<li>B. Tech. Information Technology (IT) and M. Tech. Information Techonology (IT) with specialization in Software Engineering</li>
+						<li>B. Tech. Information Technology (IT) and M. Tech. Information Techonology (IT) with specialization in Robotics</li>
+					</ul>
+					Dual Degree courses are the perfect amalgamation of the most established and renowned courses of IIIT Allahabad, namely the Bachelors in Information Technology and Masters(with specialization in Robotics and Software Engineering). These courses aims to prepare the students to easily adapt to the ever evolving field of Information Technology and cultivate in them a keen interest for working with the latest technologies and a penchant for research and development as well. The students have been given excellent exposure to both practical applications as well as core research aspects both of which are the trademarks of IIIT Allahabad legacy for the respective courses. The curriculum emphasizes originality of thought and ideas and an ability to successfully develop and practically bring the ideas into use.
+				</p>
+				
+				
 				<p>
 					<big><strong><b>Postgraduate Courses</b></strong></big><br>
 					<ul>
@@ -179,7 +190,7 @@
 			<div class="col s10 offset-s1 body">
 				<div class="col s12 course-container course-body-closed">
 					<div class="course-head">
-						<p>Undergraduate - IT</p>
+						<p>Undergraduate (Information Technology)</p>
 						<span class="toggle-course-body"></span>
 					</div>
 					<div class="course-body">
@@ -274,7 +285,7 @@
 				
 				<div class="col s12 course-container course-body-closed">
 					<div class="course-head">
-						<p>Undergraduate - ECE</p>
+						<p>Undergraduate (Electronics and Communication Engineering)</p>
 						<span class="toggle-course-body"></span>
 					</div>
 					<div class="course-body">
@@ -366,7 +377,50 @@
 				
 				<div class="col s12 course-container course-body-closed">
 					<div class="course-head">
-						<p>Postgraduate - IT</p>
+						<p>Dual Degree (Information Technology)</p>
+						<span class="toggle-course-body"></span>
+					</div>
+					<div class="course-body">
+						<p>These program are essentially an extenstion of B. Tech. Information Techonology courses stated above, and thus includes the course structure of B. Tech Information Technology Programme in addition to the following:</p>
+						<div class="courses col l4 m6 s12">
+							<p>Software Engineering</p>
+							<ul>
+								<li>Software Metrics</li>
+								<li>Software Requirements and Estimation</li>
+								<li>Software Testing and Quality Management</li>
+								<li>Architecture of Software Systems</li>
+								<li>Mathematics for Information Technology</li>
+							</ul>
+						</div>
+
+						<div class="courses col l4 m6 s12">
+							<p>Robotics</p>
+							<ul>
+								<li>Mathematical foundation of Robotics</li>
+								<li>Control System Engineering </li>
+								<li>Artificial Life Simulation</li>
+								<li>Robot Motion Planning</li>
+								<li>Humanoid Robotics</li>
+								<li>Mathematics for Information Technology</li>
+							</ul>
+						</div>
+
+						<div class="courses col l4 m6 s12">
+							<p>Projects (common for both)</p>
+							<ul>
+								<li>5th Semester Mini Project - I</li>
+								<li>6th Semester Mini Project - II</li>
+								<li>Major Summer Project - I (May-July 2016)</li>
+								<li>Major Summer Project - II (May-July 2017)</li>
+								<li>M. Tech Thesis</li>
+							</ul>
+						</div>	
+					</div>
+				</div>
+				
+				<div class="col s12 course-container course-body-closed">
+					<div class="course-head">
+						<p>Postgraduate (Information Technology)</p>
 						<span class="toggle-course-body"></span>
 					</div>
 					<div class="course-body">
@@ -379,6 +433,18 @@
 								<li>Genomic and Proteomics</li>
 								<li>Computer Aided Drug Designing</li>
 								<li>Biological Databases &amp; Structure</li>
+							</ul>
+							
+							<p>Cyber Law and Information Security</p>
+							<ul>
+								<li>Advanced Algorithms and Programming</li>
+								<li>Internet Protocols</li>
+								<li>Data Mining</li>
+								<li>Cyber Law and Security Standards</li>
+								<li>Advanced Cryptography</li>
+								<li>Network Security</li>
+								<li>Mobile and Wireless Security</li>
+								<li>Wireless Sensor Networks</li>
 							</ul>
 
 							<p>Human Computer Interaction</p>
@@ -450,7 +516,7 @@
 
 				<div class="col s12 course-container course-body-closed">
 					<div class="course-head">
-						<p>Postgraduate - ECE</p>
+						<p>Postgraduate (Electronics and Communication Engineering)</p>
 						<span class="toggle-course-body"></span>
 					</div>
 					<div class="course-body">
@@ -472,7 +538,7 @@
 
 				<div class="col s12 course-container course-body-closed">
 					<div class="course-head">
-						<p>Integrated BME</p>
+						<p>Integrated Biomedical Engineering</p>
 						<span class="toggle-course-body"></span>
 					</div>
 					<div class="course-body">
@@ -522,38 +588,9 @@
 			</div>
 		</div>
 
-		<footer class="page-footer">
-			<div class="container">
-				<div class="row">
-					<div class="col m6 s12">
-						<h5 class="white-text">Contacts</h5>
-						<p class="grey-text text-lighten-4 col m6 s12">
-							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329<br>placements@iiita.ac.in
-						</p>
-						<p class="grey-text text-lighten-4 col m6 s12">
-							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7510004660
-						</p>
-					</div>
-					<div class="col m4 offset-m2 s12">
-						<h5 class="white-text ">Links</h5>
-						<ul>
-						  <li><a class="grey-text text-lighten-3" href="procedures_and_policies.php">Placement procedure</a></li>
-						  <li><a class="grey-text text-lighten-3" href="IIIT-A Placement Brochure.pdf">Official Brochure</a></li>
-						  <li><a class="grey-text text-lighten-3" href="past_recruiters.php">Past Recruiters</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="footer-copyright">
-				<div class="container center">
-					Copyright © 2016 
-						<a href="http://www.iiita.ac.in" alt="Link to the IIITA website">
-							Indian Institute Of Information Technology, Allahabad
-						</a>
-					(Managed By GeekHaven-IIITA)
-				</div>
-			</div>
-   		</footer>
+		<?php
+			include 'footer.php';
+		?>
 
 		<!--Import jQuery before materialize.js-->
 		<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->

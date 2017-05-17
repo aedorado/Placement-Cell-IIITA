@@ -231,6 +231,24 @@
 
 		<div class="row block" id="course_overview">
 			<div class="col s10 offset-s1 body">
+				
+				<div class="col s12 course-container course-body-closed">
+					<div class="course-head">
+						<p>Placement Statistics for 2016-2017</p>
+						<span class="toggle-course-body"></span>
+					</div>
+					<div class="course-body">
+						<ul>
+							<li><b>100%</b> student placed.</li>
+							<!--<li>Dream offers : <b>89.11%</b></li>-->
+							<!--<li>Regular offers : <b>11.89%</b></li>-->
+							<li>Average Package: <b>12.5 lpa</b></li>
+							<li>Highest Package: <b>39 lpa</b></li>
+							<li>No. of Companies Visited: <b>98</b></li>
+						</ul>
+					</div>
+				</div>
+				
 				<div class="col s12 course-container course-body-closed">
 					<div class="course-head">
 						<p>Placement Statistics for 2015-2016</p>
@@ -248,71 +266,42 @@
 					</div>
 				</div>
 				
-				<div class="col s12 course-container course-body-closed">
-					<div class="course-head">
-						<p>Placement Statistics for 2014-2015</p>
-						<span class="toggle-course-body"></span>
-					</div>
-					<div class="course-body">
-						<ul>
-							<li><b>100%</b> student placed.</li>
-							<li>Average Package: <b>8.2 lpa</b></li>
-							<li>Highest Package: <b>24 lpa</b></li>
-							<li>No. of Companies Visited: <b>96</b></li>
-						</ul>
-					</div>
-				</div>
+				<!--<div class="col s12 course-container course-body-closed">-->
+				<!--	<div class="course-head">-->
+				<!--		<p>Placement Statistics for 2014-2015</p>-->
+				<!--		<span class="toggle-course-body"></span>-->
+				<!--	</div>-->
+				<!--	<div class="course-body">-->
+				<!--		<ul>-->
+				<!--			<li><b>100%</b> student placed.</li>-->
+				<!--			<li>Average Package: <b>8.2 lpa</b></li>-->
+				<!--			<li>Highest Package: <b>24 lpa</b></li>-->
+				<!--			<li>No. of Companies Visited: <b>96</b></li>-->
+				<!--		</ul>-->
+				<!--	</div>-->
+				<!--</div>-->
 				
-				<div class="col s12 course-container course-body-closed">
-					<div class="course-head">
-						<p>Placement Statistics for 2013-2014</p>
-						<span class="toggle-course-body"></span>
-					</div>
-					<div class="course-body">
-						<ul>
-							<li><b>100%</b> student placed.</li>
-							<li>Dream offers : <b>76%</b></li>
-							<li>Regular offers : <b>24%</b></li>
-							<li>Average Package: <b>7.1 lpa</b></li>
-							<li>No. of Companies Visited: <b>90</b></li>
-						</ul>
-					</div>
-				</div>
+				<!--<div class="col s12 course-container course-body-closed">-->
+				<!--	<div class="course-head">-->
+				<!--		<p>Placement Statistics for 2013-2014</p>-->
+				<!--		<span class="toggle-course-body"></span>-->
+				<!--	</div>-->
+				<!--	<div class="course-body">-->
+				<!--		<ul>-->
+				<!--			<li><b>100%</b> student placed.</li>-->
+				<!--			<li>Dream offers : <b>76%</b></li>-->
+				<!--			<li>Regular offers : <b>24%</b></li>-->
+				<!--			<li>Average Package: <b>7.1 lpa</b></li>-->
+				<!--			<li>No. of Companies Visited: <b>90</b></li>-->
+				<!--		</ul>-->
+				<!--	</div>-->
+				<!--</div>-->
 			</div>
 		</div>
 
-		<footer class="page-footer">
-			<div class="container">
-				<div class="row">
-					<div class="col m6 s12">
-						<h5 class="white-text">Contacts</h5>
-						<p class="grey-text text-lighten-4 col m6 s12">
-							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329<br>placements@iiita.ac.in
-						</p>
-						<p class="grey-text text-lighten-4 col m6 s12">
-							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7510004660
-						</p>
-					</div>
-					<div class="col m4 offset-m2 s12">
-						<h5 class="white-text ">Links</h5>
-						<ul>
-						  <li><a class="grey-text text-lighten-3" href="procedures_and_policies.php">Placement procedure</a></li>
-						  <li><a class="grey-text text-lighten-3" href="IIIT-A Placement Brochure.pdf">Official Brochure</a></li>
-						  <li><a class="grey-text text-lighten-3" href="past_recruiters.php">Past Recruiters</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="footer-copyright">
-				<div class="container center">
-					Copyright © 2016 
-						<a href="http://www.iiita.ac.in" alt="Link to the IIITA website">
-							Indian Institute Of Information Technology, Allahabad
-						</a>
-					(Managed By GeekHaven-IIITA)
-				</div>
-			</div>
-   		</footer>
+		<?php
+			include 'footer.php';
+		?>
 
 		<!--Import jQuery before materialize.js-->
 		<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->

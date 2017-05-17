@@ -26,16 +26,22 @@ $(document).ready(function() {
 		else{
 			if($(".demographics")){
 				var ugDataset = [
-					{label: "IT", count : 282},
-					{label: "ECE", count : 91}
+					{label: "IT", count : 253},
+					{label: "ECE", count : 76}
+				];
+
+				var ddDataset = [
+					{label: "SE", count : 15},
+					{label: "RO", count : 13}
 				];
 
 				var pgDataset = [
-					{label: "MTech", count : 73},
+					{label: "MTech", count : 74},
 					{label: "Integrated BME", count : 35},
 					{label: "MBA", count : 8}
 				];
 				demographicsInit(ugDataset, "#ug_demographics .svg-wrapper");
+				demographicsInit(ddDataset, "#dd_demographics .svg-wrapper");
 				demographicsInit(pgDataset, "#pg_demographics .svg-wrapper");
 			}
 		}
@@ -190,8 +196,8 @@ function demographicsInit(arr, target){
 		return t;
 	}
 
-    var width = 420;
-    var height = 420;
+    var width = 360;
+    var height = 360;
     var radius = Math.min(width, height) / 2;
 	var donutWidth = 75;
 	var legendRectSize = 18;

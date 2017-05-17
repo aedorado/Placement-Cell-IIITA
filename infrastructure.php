@@ -146,10 +146,10 @@
 			<div class="col s10 offset-s1 body">
 				<img src="images/iiita/iiita.jpg" alt="Aerial view of IIIT-A campus" class="materialboxed left col m5 s10 offset-s1 responsive-img">
 				<p>
-					The campus plan, based on a bird taking flight symbolises a launchpad for students to shoot for the stars.  The beautiful 100 acre campus, situated at Deoghat, Jhalwa, designed meticulously on the Penrose Geometry pattern, is being further topped by fine landscaping to give an all round soothing effect to create a stimulating environment to indulge in the true pursuit of excellence in the field of Information Technology and Allied Sciences. It includes two Computer Centres with six labs each, 16 lecture halls, electronic library, stadium and various recreational facilities.
+					The campus plan, based on a bird taking flight symbolises a launchpad for students to shoot for the stars.  The beautiful 100 acre campus, situated at Deoghat, Jhalwa, designed meticulously on the Penrose Geometry pattern, is being further topped by fine landscaping to give an all round soothing effect to create a stimulating environment to indulge in the true pursuit of excellence in the field of Information Technology and Allied Sciences. It includes three Computer Centres with six labs each, 16 lecture halls, electronic library, stadium and various recreational facilities.
 				</p>
 				<p>
-					The campus is envisaged to be a fully residential one, with all its faculty, staff and students housed in different pockets. Every nook and cranny is connected to the IIITA network by high speed optic fibres and wireless LAN opening the highway to internet.The institute has a sprawling on 100 acres lush green lawns and expanse of rich flora and devise floriculture, the Campus includes Visitors Guest House, Faculty Guest House, VIP Guest House, 4 Boy's Hostels with capacity of 275 inmates each, 2 Girl's Hostels, 60 Residential Quarters of Type I, II, III &amp; IV, Married Scholar Apartments, Students Activity Centre, Health Centre, Squash Courts, Swimming pool, Tennis Courts, Badminton Courts, Pavilion &amp; Playgrounds.
+					The campus is envisaged to be a fully residential one, with all its faculty, staff and students housed in different pockets. Every nook and cranny is connected to the IIITA network by high speed optic fibres and wireless LAN opening the highway to internet.The institute has a sprawling on 100 acres lush green lawns and expanse of rich flora and devise floriculture, the Campus includes Visitors Guest House, Faculty Guest House, VIP Guest House, 5 Boy's Hostels with capacity of 275 inmates each, 3 Girl's Hostels, 60 Residential Quarters of Type I, II, III &amp; IV, Married Scholar Apartments, Students Activity Centre, Health Centre, Squash Courts, Swimming pool, Tennis Courts, Badminton Courts, Pavilion &amp; Playgrounds.
 				</p>
 				<img src="images/iiita/campus3.jpg" alt="IIITA library" class="materialboxed right col m4 s10 offset-s1 responsive-img">
 				<p>
@@ -176,38 +176,9 @@
 			</div>
 		</div>
 
-		<footer class="page-footer">
-			<div class="container">
-				<div class="row">
-					<div class="col m6 s12">
-						<h5 class="white-text">Contacts</h5>
-						<p class="grey-text text-lighten-4 col m6 s12">
-							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329<br>placements@iiita.ac.in
-						</p>
-						<p class="grey-text text-lighten-4 col m6 s12">
-							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7510004660
-						</p>
-					</div>
-					<div class="col m4 offset-m2 s12">
-						<h5 class="white-text ">Links</h5>
-						<ul>
-						  <li><a class="grey-text text-lighten-3" href="procedures_and_policies.php">Placement procedure</a></li>
-						  <li><a class="grey-text text-lighten-3" href="IIIT-A Placement Brochure.pdf">Official Brochure</a></li>
-						  <li><a class="grey-text text-lighten-3" href="past_recruiters.php">Past Recruiters</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="footer-copyright">
-				<div class="container center">
-					Copyright © 2016 
-						<a href="http://www.iiita.ac.in" alt="Link to the IIITA website">
-							Indian Institute Of Information Technology, Allahabad
-						</a>
-					(Managed By GeekHaven-IIITA)
-				</div>
-			</div>
-   		</footer>
+		<?php
+			include 'footer.php';
+		?>
    		
 		<!--Import jQuery before materialize.js-->
 		<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->
