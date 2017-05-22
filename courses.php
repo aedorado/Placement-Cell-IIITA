@@ -381,7 +381,7 @@
 						<span class="toggle-course-body"></span>
 					</div>
 					<div class="course-body">
-						<p>These program are essentially an extenstion of B. Tech. Information Techonology courses stated above, and thus includes the course structure of B. Tech Information Technology Programme in addition to the following:</p>
+						<p>These program are essentially an extension of B. Tech. Information Techonology courses stated above, and thus includes the course structure of B. Tech Information Technology Programme in addition to the following:</p>
 						<div class="courses col l4 m6 s12">
 							<p>Software Engineering</p>
 							<ul>

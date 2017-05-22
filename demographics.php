@@ -148,8 +148,8 @@
 				</div>
 				<div class="content">
 					<ul>
-						<li>Information Technology - 282</li>
-						<li>Electronics and Communication - 91</li>
+						<li>Information Technology - 253</li>
+						<li>Electronics and Communication - 76</li>
 					</ul>
 				</div>
 			</div>
@@ -184,7 +184,7 @@
 				</div>
 				<div class="content">
 					<ul>
-						<li>Mtech - 73</li>
+						<li>Mtech - 74</li>
 						<li>5 Year Integrated BME - 35</li>
 						<li>MBA - 8</li>
 					</ul>
