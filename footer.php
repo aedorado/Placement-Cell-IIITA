@@ -16,6 +16,7 @@
 						  <li><a class="grey-text text-lighten-3" href="procedures_and_policies.php">Placement procedure</a></li>
 						  <li><a class="grey-text text-lighten-3" href="IIIT-A Placement Brochure.pdf">Official Brochure</a></li>
 						  <li><a class="grey-text text-lighten-3" href="past_recruiters.php">Past Recruiters</a></li>
+						  <li><a class="grey-text text-lighten-3" href="past_recruiters.php">Biomedical Engineering Website</a></li>
 						</ul>
 					</div>
 				</div>
