@@ -153,11 +153,11 @@
 					<i class="material-icons" style="transform:rotateY(180deg)">format_quote</i>
 					The Indian Institute of Information Technology Allahabad (IIIT-A) was established in 1999, as a center of excellence in Information Technology and allied areas. It has lived up to the increasing demands of the technical society in terms of quality engineers and developers.   
 					<br>
-					We have been constantly working since the establishment of the institute towards strengthening the indigenous capability necessary for profitably exploiting and harnessing multi-dimensional facets of IT at all levels. For all round development of students, we have a modular course design along with several opportunities for industry training which gives students the freedom to tailor their learning experience. Due to the development the institute has shown within 15 years of establishment and the quality engineers that the institution contributes to the society, we have been able to emerge as a successful institution.
+					We have been constantly working since the establishment of the institute towards strengthening the indigenous capability necessary for profitably exploiting and harnessing multi-dimensional facets of IT at all levels. For all round development of students, we have a modular course design along with several opportunities for industry training which gives students the freedom to tailor their learning experience. Due to the development the institute has shown within 18 years of establishment and the quality engineers that the institution contributes to the society, we have been able to emerge as a successful institution.
 					<br>
 					Like every year we expect a large participation from various organizations and are committed to provide them with the best facilities. 
 					<br>
-					We feel privileged to invite your esteemed organization to the plethora of expertise in the field of Information Technology and allied areas, as an on-campus recruiter for the 2016-17 placement session. 
+					We feel privileged to invite your esteemed organization to the plethora of expertise in the field of Information Technology and allied areas, as an on-campus recruiter for the 2017-18 placement session. 
 					<i class="material-icons">format_quote</i>
 				</p>
 				<div class="right">

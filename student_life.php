@@ -192,14 +192,6 @@
 			</div>
 		</div>
 
-		<div class="row block" id="science_conclave">
-			<div class="col s10 offset-s1 body">
-				<h5>Science Conclave</h5>
-				<p>One of the most eminent and august gathering of noble laureates who give away their enlightening lectures to the students across the globe. The institute has the honor of hosting the grand and ceremonial event where students and professors from all over the world come and participate in a plethora of cultural and scholastic meetings and performances.</p>
-			</div>
-		</div>
-
-
     	<?php
 			include 'footer.php';
 		?>

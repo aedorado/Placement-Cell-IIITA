@@ -155,8 +155,8 @@
 				<div class="row block">
 					<h5>Full time job offer</h5>
 					<p>The selected student will join company in June 2018 as full time employee.</p>
-					<h5>4-6 month internship</h5>
-					<p>Only 4 year B. Tech. students are eligible for 4-6 month internship. The student will join the company in January 2018 as an intern for a period of 4-6 months and complete their 8th semester project in the company.</p>
+					<h5>Internship</h5>
+					<p>Only B. Tech. students are eligible for 4-6 month internship. The student will join the company in January 2018 as an intern for a period of 4-6 months and complete their 8th semester project in the company.</p>
 				</div>
 				<!-- <div class="row block">
 					<h5>Full time job offer with 6 month intern</h5>
@@ -216,6 +216,7 @@
 						<li>First Round Company</li>
 						<li>Dream Round Company</li>
 					</ul>
+					<p>Overall CTC of a company includes joining bonus and all other perks, if applicable. Eligibility for a dream round company for a student will be decided on the basis of overall CTC.</p>
 				</div>
 
 				<div class="row block">

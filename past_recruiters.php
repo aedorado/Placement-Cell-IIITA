@@ -314,6 +314,9 @@
 						<li>RBS</li>
 						<li>Arista</li>
 						<li>Microsoft</li>
+						<li>Neogrowth</li>
+						<li>Arcesium</li>
+						<li>Goldman Sachs</li>
 					</ul>
 					<ul class="col s10 m4 l4">
 						<li>LinkedIn</li>
@@ -323,6 +326,9 @@
 						<li>Commence Mint</li>
 						<li>MAQ?</li>
 						<li>Use Dipper</li>
+						<li>Sanmsung R&D, Bangalore</li>
+						<li>Arista Networks</li>
+						<li>Morgan Stanley</li>
 					</ul>
 					<ul class="col s10 m4 l4">
 						<li>VizExperts</li>
@@ -332,6 +338,9 @@
 						<li>Incture</li>
 						<li>Hike</li>
 						<li>Finomena Launchpad</li>
+						<li>Kronos</li>
+						<li>Walmart Labs</li>
+						<li>Zendrive</li>
 					</ul>
 				</div>
 			</div>

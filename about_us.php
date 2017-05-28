@@ -147,7 +147,7 @@
 				<p>Established in 1999 as an Institute of National Importance to be a centre of excellence in Information Technology, Electronics &amp; Communications and allied areas, Indian Institute of Information Technology, Allahabad (IIIT Allahabad) was conferred the Deemed University status by Govt. of India in the year 2000.</p>
 				<p>IIIT Allahabad now stands as an institute of international repute known for being a pioneer in the field of Information Technology. With its highly experienced faculty and one of the brightest groups of students of this nation, coupled with dynamic academic courses, inter-departmental electives, semester projects and world class research labs, the institute has succeeded in creating an environment where creativity and new ideas flourish.</p>
 				<p>The institute is committed to producing students who apart from pure academics excel in other fundamentally important area like extra-curricular activities and have exposure to the cutting edge technologies that are shaping our world. </p>
-				<p>The institute also has an extension campus RGIIT Amethi to improve the quality of life of the surrounding area and to bridge the technology gap.</p>
+				<!--<p>The institute also has an extension campus RGIIT Amethi to improve the quality of life of the surrounding area and to bridge the technology gap.</p>-->
 			</div>
 		</div>
 

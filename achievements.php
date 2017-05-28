@@ -145,6 +145,7 @@
 			</div>
 			<div class="col s10 offset-s1 body">
 				<ul>
+					<li>IIIT- Allahabad has been ranked 11th by India Today Best Engineering Colleges (2017) ranking.</li>
 					<li>IIIT-A was ranked <b>11th</b> in QS world ranking 2016</li>
 					<li>IIIT-A finished <b>FIRST</b> among Indian Universities in ACM ICPC World Finals,2016.</li>
 					<li>IIIT-A secured <b>FIRST</b> position at ACM ICPC Online Round, 2015.</li>
