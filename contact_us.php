@@ -162,7 +162,7 @@
 					<div class="col s8 m12 contact-details">
 						<p><big><b>Abhinav Singh</b></big></p>
 						<p>
-							Student Coordinator,Training and Placements<br>placements@iiita.ac.in<br>+91-9455448152
+							Student Coordinator,Training and Placements<br>placements@iiita.ac.in<br>+91-9415348949<br>+91-9455448152
 						</p>
 					</div>
 				</div>
@@ -173,7 +173,7 @@
 					<div class="col s8 m12 contact-details">
 						<p><big><b>Swapnil Chavan</b></big></p>
 						<p>
-							Student Coordinator(PG)<br>placements@iiita.ac.in
+							Student Coordinator(PG)<br>placements@iiita.ac.in<br>+91-7506106906
 						</p>				
 					</div>
 				</div>
