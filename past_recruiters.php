@@ -205,9 +205,9 @@
 						<li>Futures First</li>
 						<li>Geek Shastra</li>
 						<li>Germin8</li>
+						<li>GE Digital</li>
 					</ul>
 					<ul class="col s10 m4 l4">
-						<li>GE Digital</li>
 						<li>Google</li>
 						<li>Goldman Sachs</li>
 						<li>Grofers</li>
@@ -259,10 +259,10 @@
 						<li>Nvidia</li>
 						<li>OFSS</li>
 						<li>OkuTech</li>
-					</ul>
-					<ul class="col s10 m4 l4">
 						<li>Online Tyari</li>
 						<li>Oxigen</li>
+					</ul>
+					<ul class="col s10 m4 l4">
 						<li>PagalGuy</li>
 						<li>Pay U</li>
 						<li>Paytm</li>
