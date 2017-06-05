@@ -153,7 +153,8 @@
 				</div> -->
 				<div class="col s12 offset-s1 body">
 					<ul class="col s12 m4 l4">
-						<li>AakashAccenture</li>
+						<li>Aakash</li>
+						<li>Accenture</li>
 						<li>Accolite</li>
 						<li>Adobe</li>
 						<li>AirTight</li>
@@ -165,17 +166,18 @@
 						<li>Aptech</li>
 						<li>Aquamarine</li>
 						<li>ArachnoMesh</li>
+						<li>Arcesium</li>
 						<li>Arista Networks</li>
 						<li>Avanti</li>
 						<li>Axtria</li>
 						<li>Barkley</li>
 						<li>BDL</li>
 						<li>Belzabar</li>
-						<li>Bharat </li>
-						<li>Bhasha</li>
+						<li>Bharat Bhasha</li>
 						<li>Bidgely</li>
 						<li>BlackRock</li>
 						<li>BlueJeans</li>
+						<li>Bluestacks</li>
 						<li>BTU</li>
 						<li>Capgemini</li>
 						<li>Cisco Systems India </li>
@@ -192,7 +194,7 @@
 						<li>Digital Green</li>
 						<li>Direct-i</li>
 						<li>DRDL</li>
-						<li>EXL</li>
+						<li>Edelweiss</li>
 						<li>Expedia</li>
 						<li>FactSet</li>
 						<li>Flaberry</li>
@@ -200,16 +202,16 @@
 						<li>Fractcal</li>
 						<li>Freescale</li>
 						<li>Frrole</li>
-					</ul>
-					<ul class="col s10 m4 l4">
 						<li>Futures First</li>
 						<li>Geek Shastra</li>
 						<li>Germin8</li>
+					</ul>
+					<ul class="col s10 m4 l4">
+						<li>GE Digital</li>
 						<li>Google</li>
 						<li>Goldman Sachs</li>
-						<li>Grey Orange</li>
 						<li>Grofers</li>
-						<li>HashCube</li>
+						<li>HackerRank</li>
 						<li>Hashedin</li>
 						<li>HCL-CDC</li>
 						<li>HealthKart</li>
@@ -220,25 +222,28 @@
 						<li>HT Media</li>
 						<li>IBM</li>
 						<li>Icon Resources</li>
+						<li>ION Trading</li>
 						<li>Incture Technology</li>
 						<li>Info Edge</li>
 						<li>Infosys</li>
 						<li>Infurnia Furnishings </li>
 						<li>Inmobi</li>
-						<li>Innovacer</li>
 						<li>Ittiam</li>
 						<li>IVP</li>
+						<li>JDA</li>
+						<li>Jigserv</li>
+						<li>Juniper</li>
 						<li>KPMG</li>
 						<li>Kritikal</li>
 						<li>Kronos</li>
 						<li>Kuliza</li>
 						<li>LeafAir</li>
 						<li>Linkedin</li>
+						<li>Make My Trip</li>
 						<li>Mahindra Comviva</li>
 						<li>MAQ Software</li>
-						<li>Mech Mocha</li>
 						<li>Microsoft</li>
-						<li>MoEngange</li>
+						<li>MoonFrog</li>
 						<li>Morgan Stanley</li>
 						<li>Mu Sigma</li>
 						<li>Must See India</li>
@@ -246,17 +251,18 @@
 						<li>Nagarro Softwares</li>
 						<li>Naukri.com</li>
 						<li>NEC Tech</li>
-						<li>NestAway</li>
+						<li>NeoGrowth</li>
 						<li>Newgen</li>
 						<li>National Instruments</li>
-					</ul>
-					<ul class="col s10 m4 l4">
 						<li>Niki.ai (Techbins)</li>
 						<li>Nucleas Software</li>
 						<li>Nvidia</li>
-						<li>Octri</li>
-						<li>OFSSOkuTech</li>
+						<li>OFSS</li>
+						<li>OkuTech</li>
+					</ul>
+					<ul class="col s10 m4 l4">
 						<li>Online Tyari</li>
+						<li>Oxigen</li>
 						<li>PagalGuy</li>
 						<li>Pay U</li>
 						<li>Paytm</li>
@@ -274,29 +280,41 @@
 						<li>SAP Labs</li>
 						<li>Sapient Nitro</li>
 						<li>Shimply</li>
-						<li>Sigmoid</li>
+						<li>Shopclues</li>
+						<li>Smartpix</li>
 						<li>Snapdeal</li>
 						<li>SportsWave</li>
-						<li>ST Microelectronics</li>
-						<li>StanfordSuccess Factors</li>
+						<li>Streamoid</li>
+						<li>Success Factors</li>
+						<li>Sutra Analytics</li>
 						<li>Sutra</li>
+						<li>Swiggy</li>
 						<li>TCS</li>
 						<li>Tesco</li>
+						<li>Tech Racers</li>
 						<li>Thorogood</li>
+						<li>Times Internet</li>
 						<li>Tiny Owl</li>
 						<li>Toppr</li>
 						<li>Unbxd</li>
 						<li>Urbanrestro</li>
-						<li>Valuefy</li>
+						<li>Vassar Labs</li>
 						<li>Verizon</li>
 						<li>Vitara</li>
 						<li>VIZ</li>
-						<li>Walmart</li>
+						<li>Walmart Labs</li>
 						<li>WhistleApp</li>
+						<li>Wipro</li>
+						<li>WorksApp</li>
+						<li>Wrigg</li>
+						<li>Yodlee</li>
+						<li>Zendrive</li>
+						<li>Zomato</li>
 						<li>Zoomcar</li>
 						<li>ZopHop</li>
 						<li>Zopnow</li>
-						<li>ZSZScalar</li>
+						<li>ZS</li>
+						<li>ZScalar</li>
 					</ul>
 				</div>
 			</div>
