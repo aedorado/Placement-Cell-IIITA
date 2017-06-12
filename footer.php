@@ -29,3 +29,4 @@
 				</div>
 			</div>
    		</footer>
+		<script type="text/javascript" src="js/analytics.js"></script>
